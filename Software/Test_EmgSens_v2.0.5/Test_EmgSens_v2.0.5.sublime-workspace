@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MA",
+				"MAX_BUTTONS"
+			],
+			[
+				"Fable_",
+				"FABLE_InfoParameter"
+			],
+			[
+				"ser",
+				"servo_pin"
+			],
+			[
+				"FA",
+				"FABLE_DefaultValue"
+			],
+			[
+				"fa",
+				"FABLE_DefaultValue"
+			],
+			[
+				"Fa",
+				"FABLE_DefaultValue"
+			],
+			[
+				"ma",
+				"MAX_SERVOS-1"
+			],
+			[
+				"Servoindex",
+				"ServoindexStop"
+			],
+			[
+				"max",
+				"MAX_SERVOS-1"
+			],
+			[
+				"servoindex",
+				"ServoindexStart"
+			],
+			[
+				"macro",
+				"MacroKey"
+			],
+			[
+				"bu",
+				"buttonState"
+			],
+			[
+				"F",
+				"F2"
+			],
+			[
+				"swe",
+				"sweepSingleFinger"
+			],
+			[
+				"Co",
+				"Complementary"
+			],
+			[
+				"zc",
+				"ZcThr"
+			],
+			[
+				"W",
+				"WampThr"
+			],
+			[
+				"z",
+				"ZcThr"
+			],
+			[
+				"wam",
+				"WampThr"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"ava",
+				"available"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control:s",
+				"Package Control: Install Package"
+			],
+			[
+				"arduino",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"Package Control:sti",
+				"Package Control: Remove Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/orlandorossi/Documents/Fable/Fw/V2.0/Fable_v2.0.0/Test_EmgSens_v2.0.5/Test_EmgSens_v2.0.5.ino",
+		"/Users/orlandorossi/Documents/Arduino/stefania/MYO_HAND/MYO_HAND.ino",
+		"/Users/orlandorossi/Documents/Arduino/stefania/MYO_HAND/myoParameters.ino",
+		"/Users/orlandorossi/Documents/Arduino/stefania/MYO_HAND/SUI_routines.ino",
+		"/Users/orlandorossi/Desktop/STEFANIA1/MYO_HAND.ino",
+		"/Users/orlandorossi/Desktop/STEFANIA/MYO_HAND.ino",
+		"/Users/orlandorossi/Google Drive/Open BioMedical (OBM) Initiative/PROJECTS/PROJECT - Myo Hand/Software/TestMyoParameter/Vers1.1/TestMyoParameter.ino",
+		"/Users/orlandorossi/Google Drive/Open BioMedical (OBM) Initiative/PROJECTS/PROJECT - Myo Hand/Software/TestMyoParameter/vers1.0/TestMyoParameter.ino",
+		"/Users/orlandorossi/Documents/Arduino/TestBoard/TestMyoParameter/myoParameters (1).ino",
+		"/Users/orlandorossi/Documents/Arduino/TestBoard/TestMyoParameter/TestMyoParameter.ino",
+		"/Users/orlandorossi/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.STEFANIA1":
+	{
+		"height": 100.0
+	},
+	"output.TestMyoParameter":
+	{
+		"height": 100.0
+	},
+	"output.Test_EmgSens_v2.0.3":
+	{
+		"height": 100.0
+	},
+	"output.Test_EmgSens_v2.0.5":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Test_EmgSens_v2.0.5.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
