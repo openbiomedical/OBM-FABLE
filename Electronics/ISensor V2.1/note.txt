@@ -1,0 +1,8 @@
+
+Resistor smd 2512 package
+
+PS1,..,PS6 = to arduino [ PWM = pin3 ; Analog Input = pin1 ]
+
+S1,...,S6 = From servo  [ PWM = Pin3 ; VCC = Pin2 ; GND = pin1 to resistor ]
+
+VCC = 6v dc Max from step-down

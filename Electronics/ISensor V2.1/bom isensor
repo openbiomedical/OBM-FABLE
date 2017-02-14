@@ -1,0 +1,23 @@
+ISensor V2.1 
+
+Part Value         Device        Package Description               MF MPN OC_FARNELL OC_NEWARK
+GND                PINHD-1X2     1X02    PIN HEADER                                           
+PS1                PINHD-1X3     1X03    PIN HEADER                                           
+PS2                PINHD-1X3     1X03    PIN HEADER                                           
+PS3                PINHD-1X3     1X03    PIN HEADER                                           
+PS4                PINHD-1X3     1X03    PIN HEADER                                           
+PS5                PINHD-1X3     1X03    PIN HEADER                                           
+PS6                PINHD-1X3     1X03    PIN HEADER                                           
+R1   0.5ohm 1%     R-US_R2512    R2512   RESISTOR, American symbol                            
+R2   0.5ohm 1%     R-US_R2512    R2512   RESISTOR, American symbol                            
+R3   0.5ohm 1%     R-US_R2512    R2512   RESISTOR, American symbol                            
+R4   0.5ohm 1%     R-US_R2512    R2512   RESISTOR, American symbol                            
+R5   0.5ohm 1%     R-US_R2512    R2512   RESISTOR, American symbol                            
+R6   0.5ohm 1%     R-US_R2512    R2512   RESISTOR, American symbol                            
+S1   22-27-2031-03 22-27-2031-03 6410-03 CONNECTOR                        unknown    
+S2   22-27-2031-03 22-27-2031-03 6410-03 CONNECTOR                        unknown      
+S3   22-27-2031-03 22-27-2031-03 6410-03 CONNECTOR                        unknown      
+S4   22-27-2031-03 22-27-2031-03 6410-03 CONNECTOR                        unknown      
+S5   22-27-2031-03 22-27-2031-03 6410-03 CONNECTOR                        unknown    
+S6   22-27-2031-03 22-27-2031-03 6410-03 CONNECTOR                        unknown     
+VCC                PINHD-1X2     1X02    PIN HEADER                                           

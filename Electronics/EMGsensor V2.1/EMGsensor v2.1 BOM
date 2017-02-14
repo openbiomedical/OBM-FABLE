@@ -1,0 +1,40 @@
+Partlist exported from C:/Users/workstation/Documents/eagle/emg sensor v2 single ch/EMGsensor v2.1.sch at 20/08/2015 19:14:39
+
+Part     Value         Device               Package      Description                                                     MF                 MPN      OC_FARNELL OC_NEWARK
++V                     2,54/0,9             2,54/0,9     THROUGH-HOLE PAD                                                                                                
+C1       33nf          C-US050-024X044      C050-024X044 CAPACITOR, American symbol                                                                                      
+C2       33nf          C-US050-024X044      C050-024X044 CAPACITOR, American symbol                                                                                      
+C3       3,9nf         C-US025-025X050      C025-025X050 CAPACITOR, American symbol                                                                                      
+C4       33nf          C-US025-025X050      C025-025X050 CAPACITOR, American symbol                                                                                      
+C5       3,9nf         C-US025-025X050      C025-025X050 CAPACITOR, American symbol                                                                                      
+C6       10nf          C-EU050-024X044      C050-024X044 CAPACITOR, European symbol                                                                                      
+C7       47uf          CPOL-USE2.5-5        E2,5-5       POLARIZED CAPACITOR, American symbol                                                                            
+C8       100nf         C-US050-024X044      C050-024X044 CAPACITOR, American symbol                                                                                      
+C9       100nf         C-US050-024X044      C050-024X044 CAPACITOR, American symbol                                                                                      
+C10      33nf          C-US050-024X044      C050-024X044 CAPACITOR, American symbol                                                                                      
+C11      1nf           C-EU050-024X044      C050-024X044 CAPACITOR, European symbol                                                                                      
+C12      1nf           C-EU050-024X044      C050-024X044 CAPACITOR, European symbol                                                                                      
+D1       schotty       SCHOTTKY-DIODEDO35-7 DO35-7       Schottky Diode                                                                                                  
+GND                    PINHD-1X3            1X03         PIN HEADER                                                                                                      
+IC1      AD623N        AD623N               DIL08        Single-Supply, Rail-to-Rail, Low Cost Instrumentation Amplifier ALTERA CORPORATION AD623ANZ 9603700    59K4402  
+IC2      OPA4234P      OPA4234P             DIL14        Low Power, Precision Single-Supply Operational Amplifiers                                   unknown    unknown  
+IN1      22-27-2031-03 22-27-2031-03        6410-03      CONNECTOR                                                                                   unknown    unknown  
+NO_SHIFT               2,54/0,9             2,54/0,9     THROUGH-HOLE PAD                                                                                                
+R1       2,7k          R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R2       3,9k          R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R3       330k          R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R4       150k          R-US_0207/5V         0207/5V      RESISTOR, American symbol                                                                                       
+R5       330k          R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R6       10k           R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R7       10k           R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R8       22k           R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R9       330k          R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R10      10k           R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R11      150k          R-US_0207/2V         0207/2V      RESISTOR, American symbol                                                                                       
+R12      22k           R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R13      22k           R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R14      100k          R-TRIMM3339P         RTRIM3339P   Trimm resistor                                                                                                  
+R15      3,9k          R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+R20      330k          R-US_0207/7          0207/7       RESISTOR, American symbol                                                                                       
+SHIFT                  2,54/0,9             2,54/0,9     THROUGH-HOLE PAD                                                                                                
+V        22-27-2021-02 22-27-2021-02        6410-02      CONNECTOR                                                                                   unknown    unknown  

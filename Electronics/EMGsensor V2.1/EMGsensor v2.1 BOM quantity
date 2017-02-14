@@ -1,0 +1,25 @@
+Partlist exported from C:/Users/workstation/Documents/eagle/emg sensor v2 single ch/EMGsensor v2.1.sch at 20/08/2015 19:15:31
+
+Qty Value         Device               Package      Parts               Description                                                     MF                 MPN      OC_FARNELL OC_NEWARK
+3                 2,54/0,9             2,54/0,9     +V, NO_SHIFT, SHIFT THROUGH-HOLE PAD                                                                                                
+1                 PINHD-1X3            1X03         GND                 PIN HEADER                                                                                                      
+1   100k          R-TRIMM3339P         RTRIM3339P   R14                 Trimm resistor                                                                                                  
+2   100nf         C-US050-024X044      C050-024X044 C8, C9              CAPACITOR, American symbol                                                                                      
+3   10k           R-US_0207/7          0207/7       R6, R7, R10         RESISTOR, American symbol                                                                                       
+1   10nf          C-EU050-024X044      C050-024X044 C6                  CAPACITOR, European symbol                                                                                      
+1   150k          R-US_0207/2V         0207/2V      R11                 RESISTOR, American symbol                                                                                       
+1   150k          R-US_0207/5V         0207/5V      R4                  RESISTOR, American symbol                                                                                       
+2   1nf           C-EU050-024X044      C050-024X044 C11, C12            CAPACITOR, European symbol                                                                                      
+1   2,7k          R-US_0207/7          0207/7       R1                  RESISTOR, American symbol                                                                                       
+1   22-27-2021-02 22-27-2021-02        6410-02      V                   CONNECTOR                                                                                   unknown    unknown  
+1   22-27-2031-03 22-27-2031-03        6410-03      IN1                 CONNECTOR                                                                                   unknown    unknown  
+3   22k           R-US_0207/7          0207/7       R8, R12, R13        RESISTOR, American symbol                                                                                       
+2   3,9k          R-US_0207/7          0207/7       R2, R15             RESISTOR, American symbol                                                                                       
+2   3,9nf         C-US025-025X050      C025-025X050 C3, C5              CAPACITOR, American symbol                                                                                      
+4   330k          R-US_0207/7          0207/7       R3, R5, R9, R20     RESISTOR, American symbol                                                                                       
+1   33nf          C-US025-025X050      C025-025X050 C4                  CAPACITOR, American symbol                                                                                      
+3   33nf          C-US050-024X044      C050-024X044 C1, C2, C10         CAPACITOR, American symbol                                                                                      
+1   47uf          CPOL-USE2.5-5        E2,5-5       C7                  POLARIZED CAPACITOR, American symbol                                                                            
+1   AD623N        AD623N               DIL08        IC1                 Single-Supply, Rail-to-Rail, Low Cost Instrumentation Amplifier ALTERA CORPORATION AD623ANZ 9603700    59K4402  
+1   OPA4234P      OPA4234P             DIL14        IC2                 Low Power, Precision Single-Supply Operational Amplifiers                                   unknown    unknown  
+1   schotty       SCHOTTKY-DIODEDO35-7 DO35-7       D1                  Schottky Diode                                                                                                  

@@ -1,0 +1,12 @@
+
+from Vin to electrodes only shield cable ( shield = pin2)
+
+reference electrode = GND
+
+supply from 5vdc to 12vdc (stab.)
+
+R14 = gain
+
+Shift = output with offset (Vcc/2)
+
+no_shift = Output without offset (Vcc/2)
